@@ -34,7 +34,7 @@ __VIKTIGT!__ Se till att du står i katalogen som skapades under steg 2 genom at
 
 ...
 
-`$ git add .gitignore`
+`$ git add .`
 
 ...
 
