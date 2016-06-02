@@ -13,7 +13,7 @@ Här hittar du anvisningar som visar dig steg för steg de olika moment du är t
 
 ## Steg 2. Klona ditt repo för övningsuppgifter
 
-:exclamation: __VIKTIGT!__ Se till att du står i katalogen som skapades under steg 1 genom att använda kommandot `cd` ("_change directory_").
+:warning: __VIKTIGT!__ Se till att du står i katalogen som skapades under steg 1 genom att använda kommandot `cd` ("_change directory_").
 
 `$ cd 1dv021`
 
