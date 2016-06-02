@@ -1,4 +1,4 @@
-# Flöde för att arbeta med en övningsuppgift
+# Att komma igång med en övningsuppgift
 
 ...
 
@@ -8,29 +8,56 @@
 
 Se till att du befinner dig i katalogen för dina övningsuppgifter. 
 
-`$ cd 1dv021/[your-lnu-username]-exercises` 
+`$ cd [your-lnu-username]-exercises` 
 
 ## Steg 2. Lägg till ett alias för källan till övningsuppgiften
 
 ...
 
-`$ git remote add right-triangle https://github.com/1dv021/exercise-right-triangle.git`
+`$ git remote add hello-world https://github.com/1dv021/exercise-hello-world.git`
 
 ...
 
 `$ git remote -v`
 
-...
+<pre>
+origin  https://github.com/1dv021/[your-lnu-username]-exercises.git (fetch)
+origin  https://github.com/1dv021/[your-lnu-username]-exercises.git (push)
+hello-world  https://github.com/1dv021/exercise-hello-world.git (fetch)
+hello-world  https://github.com/1dv021/exercise-hello-world.git (push)
+</pre>
 
 ## Steg 3. Lägg till en ny övningsuppgift
 
 ...
 
-`$ git subtree add --prefix=right-triangle --squash  right-triangle master`
+`$ git subtree add --prefix=hello-world --squash hello-world master`
 
+<pre>
+.
+└── [your-lnu-username]-exercises
+    ├── .git (OBS! Dold katalog.)
+    ├── hello-world
+    │   ├── src
+    │   │   └── hello.js
+    │   ├── test
+    │   │   └── hello.test.js
+    │   ├── .editorconfig
+    │   ├── .gitignore
+    │   ├── .jscsrc
+    │   ├── .jshintrc
+    │   ├── app.js
+    │   ├── package.json
+    │   └── README.md
+    └── .gitignore
+</pre>
 ...
 
-`$ cd right-triangle` 
+`$ git add .`
+
+`$ git commit -m "First commit hello-world"`
+
+`$ git push` 
 
 ## Steg 4. Klart!
 

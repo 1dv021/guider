@@ -46,4 +46,3 @@ Här hittar du anvisningar som visar dig steg för steg de olika moment du är t
 Genom att följa denna guide har du nu förberett ditt privata repo för kursens övningsuppgifter. :tada: :octocat: :zap:
 
 > __Tips__: Ta en titt på guiden [Att komma igång med en övningsuppgift](../att-komma-igang-med-en-ovningsuppgift) eller [andra intressanta guider](../).
- 
