@@ -10,19 +10,20 @@ Här hittar du anvisningar som visar dig steg för steg de olika moment du är t
 
 `$ mkdir 1dv021`
 
-...
+
+## Steg 2. Klona ditt repo för övningsuppgifter
+
+:exclamation: __VIKTIGT!__ Se till att du står i katalogen som skapades under steg 1 genom att använda kommandot `cd` ("_change directory_").
 
 `$ cd 1dv021`
-
-## Steg 2. Klona ditt privata repo för övningsuppgifter
 
 ...
 
 `$ git clone https://github.com/1dv021/[your-lnu-username]-exercises.git`
 
-## Steg 3. Hämta inställningar för GitHub
+## Steg 3. Hämta "boilerplate"-inställningar för ditt repo
 
-__VIKTIGT!__ Se till att du står i katalogen som skapades under steg 2 genom att använda kommandot `cd` ("_change directory_").
+:warning: __VIKTIGT!__ Se till att du står i katalogen som skapades under steg 2 genom att använda kommandot `cd` ("_change directory_").
 
 `$ cd [your-lnu-username]-exercises`
 
@@ -30,15 +31,7 @@ __VIKTIGT!__ Se till att du står i katalogen som skapades under steg 2 genom at
 
 `$ git pull https://github.com/1dv021/boilerplate-gitignore.git`
 
-## Steg 4. Spara ändringarna
-
-...
-
-`$ git add .gitignore`
-
-...
-
-`$ git commit -m "Initial commit"`
+## Steg 4. Synkronisera ändringarna med ditt repo på GitHub
 
 ...
 
@@ -52,5 +45,5 @@ __VIKTIGT!__ Se till att du står i katalogen som skapades under steg 2 genom at
 
 Genom att följa denna guide har du nu förberett ditt privata repo för kursens övningsuppgifter. :tada: :octocat: :zap:
 
-> __Tips__: Ta en titt på guiden för [flödet hur du arbetar med en övningsuppgift](../flode-for-att-arbeta-med-en-ovningsuppgift) eller [andra intressanta guider](../).
+> __Tips__: Ta en titt på guiden [Att komma igång med en övningsuppgift](../att-komma-igang-med-en-ovningsuppgift) eller [andra intressanta guider](../).
  
