@@ -19,7 +19,7 @@ Under kursen kommer du att arbeta med flera repon. Det är därför lämpligt at
 
 Du har blivit tilldelad ett privat repo för dina övningsuppgifter. I detta repo samlar du alla övningsuppgifter du gör. Du skapar en lokal arbetskopia av ditt repo för övningsuppgifter med `git clone`. 
 
-> Genom att använda `git clone` klonar du ett befintligt repo på GitHub, d.v.s. du skapar en lokal fullständig arbetskopia av repot på GitHub. En katalog kommer att skapas med samma namn som repot du klonar, i detta fall `[your-lnu-username]-exercises`., och fyllas med de filer och kataloger repot innehåller.
+> Genom att använda `git clone` klonar du ett befintligt repo på GitHub, d.v.s. du skapar en lokal fullständig arbetskopia av repot på GitHub. En katalog kommer att skapas med samma namn som repot du klonar, i detta fall `[your-lnu-username]-exercises`, och fyllas med de filer och kataloger repot innehåller. De ändringar du gör lokalt kommer att skickas till repot på GitHub då du använder kommandot `git push`.
 
 > OBS! Ersätt `[your-lnu-username]` i `[your-lnu-username]-exercises.git` med ditt användarnamn du fått av universitetet.
 
@@ -42,7 +42,8 @@ Efter komamndot ska du ha en katalogstruktur enligt:
 
 `$ cd [your-lnu-username]-exercises`
 
-...
+Du hämtar filer (och kataloger) från ett annat repo än det du klonat genom att använda komamndot `git pull`. 
+>Repot [boilerplate-gitignore](https://github.com/1dv021/boilerplate-gitignore) innehåller filen [.gitignore](https://git-scm.com/docs/gitignore) som definierar vilka kataloger som inte ska skickas till GitHub i samband med en synkronisering mellan mellan ditt lokala repot och ditt repot på GitHub.  
 
 `$ git pull https://github.com/1dv021/boilerplate-gitignore.git`
 
@@ -53,19 +54,21 @@ Efter komamndot ska du ha en katalogstruktur enligt:
 └── 1dv021
     └── [your-lnu-username]-exercises
         ├── .git
-        └── .gitignore (OBS! Den nya filen från boilerplate-repot!)
+        └── .gitignore (OBS! Den nya filen från repot boilerplate-ignore.)
 </pre>
 
 
 ## Steg 4. Synkronisera ändringarna med ditt repo på GitHub
 
-...
+För att synkroniers ändringarna mellan ditt lokala repo och repot på GitHub använder du kommandot `git push`.
+
+>OBS! I detta fall behöver du inte lägga till filen `.ignore` och göra en "commit" då detta redan tagits hand om av kommandot `git pull`.  
 
 `$ git push`
 
 ## Steg 5. Klart!
 
-Allt är nu förberett för att du ska kunna arbeta med övningsuppgifterna. Glöm inte att regelbundet checka in och synkronisera ändringar du gör i katalogen `[your-lnu-username]-exercises`. Lycka till!
+Allt är nu förberett för att du ska kunna arbeta med övningsuppgifterna. Glöm inte att regelbundet göra "commits" och synkronisera ändringar du gör i katalogen `[your-lnu-username]-exercises`. Lycka till!
 
 ### Fira!
 
