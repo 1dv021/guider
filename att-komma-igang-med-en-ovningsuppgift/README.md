@@ -71,6 +71,8 @@ För att synkroniers ändringarna mellan ditt lokala repo och repot på GitHub a
 
 Nu är allt klart för att du ska kunna börja arbeta med övningsuppgiften.
 
+Glöm inte att regelbundet göra "commits" och synkronisera ändringar du gör i katalogen `[your-lnu-username]-exercises`. Lycka till!
+
 ### Fira!
 
 Genom att följa denna guide har du satt dig in flödet att arbeta med kursens övningsuppgifter. :tada: :octocat: :zap:
