@@ -40,7 +40,7 @@ Du använder kommandot `git subtree add` för att hämta hem filer från ett rep
 > `--prefix`: definierar namnet på underkatalogen som ska skapas,
 > `--squash`: slår samman källans  "commits" till en,
 > `hello-world`: namnet på den "remote" som ska användas
-> `master`: den "branch" som ska användas från definerad "remote" 
+> `master`: den "branch" som ska användas från definierad "remote".
 
 <pre>
 .
@@ -77,6 +77,6 @@ Glöm inte att regelbundet göra "commits" och synkronisera ändringar du gör i
 
 Genom att följa denna guide har du satt dig in flödet att arbeta med kursens övningsuppgifter. :tada: :octocat: :zap:
 
-> __Tips__: Ta en titt på [andra intressanta guider](../).
+> __Tips__: Ta en titt på [andra intressanta guider](https://github.com/1dv021/guider).
 
  
