@@ -6,7 +6,7 @@ Här hittar du anvisningar som visar dig steg för steg de olika moment du är t
 
 ## Steg 1. Skapa en katalog för kursens repon
 
-Under kursen kommer du att arbeta med flera repon. Det är därför lämpligt att samla de lokala kopiorna av repona under en och samma katalog, förslagvis namngiven efter kursens kod 1dv021.
+Under kursen kommer du att arbeta med flera repon. Det är därför lämpligt att samla de lokala repona under en och samma katalog, förslagvis namngiven efter kursens kod 1dv021.
 
 :triangular_flag_on_post: `$ mkdir 1dv021`
 
