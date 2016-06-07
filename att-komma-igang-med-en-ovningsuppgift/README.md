@@ -8,17 +8,17 @@
 
 Se till att du befinner dig i katalogen för dina övningsuppgifter. 
 
-:arrow_right: `$ cd [your-lnu-username]-exercises` 
+:triangular_flag_on_post: `$ cd [your-lnu-username]-exercises` 
 
 ## Steg 2. Lägg till ett alias för källan till övningsuppgiften
 
 ...
 
-:pushpin: `$ git remote add hello-world https://github.com/1dv021/exercise-hello-world.git`
+:triangular_flag_on_post: `$ git remote add hello-world https://github.com/1dv021/exercise-hello-world.git`
 
 ...
 
-:octocat: `$ git remote -v`
+:triangular_flag_on_post: `$ git remote -v`
 
 <pre>
 origin  https://github.com/1dv021/[your-lnu-username]-exercises.git (fetch)
@@ -31,7 +31,7 @@ hello-world  https://github.com/1dv021/exercise-hello-world.git (push)
 
 ...
 
-:arrow_right: `$ git subtree add --prefix=hello-world --squash hello-world master`
+:triangular_flag_on_post: `$ git subtree add --prefix=hello-world --squash hello-world master`
 
 <pre>
 .
@@ -53,11 +53,11 @@ hello-world  https://github.com/1dv021/exercise-hello-world.git (push)
 </pre>
 ...
 
-:arrow_right: `$ git add .`
+:triangular_flag_on_post: `$ git add .`
 
-:arrow_right: `$ git commit -m "First commit hello-world"`
+:triangular_flag_on_post: `$ git commit -m "First commit hello-world"`
 
-:arrow_right: `$ git push` 
+:triangular_flag_on_post: `$ git push` 
 
 ## Steg 4. Klart!
 
