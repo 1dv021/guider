@@ -14,7 +14,7 @@ Se till att du befinner dig i katalogen för dina övningsuppgifter.
 
 ...
 
-:push_pin: `$ git remote add hello-world https://github.com/1dv021/exercise-hello-world.git`
+:pushpin: `$ git remote add hello-world https://github.com/1dv021/exercise-hello-world.git`
 
 ...
 
