@@ -10,7 +10,7 @@ Här hittar du anvisningar som visar dig steg för steg de olika moment du är t
 
 Starta en webbläsare och gå till [https://github.com/join](https://github.com/join) för att skapa ett nytt GitHub-konto. Fyll i användarnamn, mejladress. lösenord och klicka på knappen __Create an account__.
 
-> :bulb: TIPS! Välj gärna ett användarnamn som inte har någon koppling till användarnamnet kopplat till ditt studentkonto på Linneuniversitetet. Välj även gärna en privat mejladress (behöver alltså inte vara den meladress du fått tillgång till då du hämtade ut ditt studentkonto).
+> :bulb: __TIPS!__ Välj gärna ett användarnamn som inte har någon koppling till användarnamnet kopplat till ditt studentkonto på Linneuniversitetet. Välj även gärna en privat mejladress (behöver alltså inte vara den meladress du fått tillgång till då du hämtade ut ditt studentkonto).
 
 ![Join GitHub](bilder/join-github.png)
 
