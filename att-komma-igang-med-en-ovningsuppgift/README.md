@@ -14,11 +14,11 @@ Se till att du befinner dig i katalogen för dina övningsuppgifter.
 
 ...
 
-:arrow_right: `$ git remote add hello-world https://github.com/1dv021/exercise-hello-world.git`
+:push_pin: `$ git remote add hello-world https://github.com/1dv021/exercise-hello-world.git`
 
 ...
 
-:arrow_right: `$ git remote -v`
+:octocat: `$ git remote -v`
 
 <pre>
 origin  https://github.com/1dv021/[your-lnu-username]-exercises.git (fetch)
