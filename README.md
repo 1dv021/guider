@@ -3,4 +3,4 @@
 1. [Ditt alldeles egna och privata GitHub-konto](#)
 1. [Meddela kursledningen ditt användarnamn på GitHub](#)
 1. [Så kommer du igång med ditt repo för kursens övningsuppgifter](sa-kommer-du-igang-med-ditt-repo-for-kursens-ovningsuppgifter)
-1. [Flöde för att arbeta med en övningsuppgift](flode-for-att-arbeta-med-en-ovningsuppgift)
+1. [Att komma igång med en övningsuppgift](att-komma-igang-med-en-ovningsuppgift)
