@@ -17,7 +17,7 @@ Under kursen kommer du att arbeta med flera repon. Det är därför lämpligt at
 
 :triangular_flag_on_post: `$ cd 1dv021`
 
-Du har blivit tilldelad ett privat repo för dina övningsuppgifter. I detta repo samlar du alla övningsuppgifter du gör. Du skapar en lokal arbetskopia av ditt repo för övningsuppgifter med `git clone`. 
+Du har blivit tilldelad ett privat repo för dina övningsuppgifter. I detta repo samlar du alla övningsuppgifter du gör. Du skapar en lokal arbetskopia av ditt repo för övningsuppgifter med [`git clone`](https://help.github.com/articles/cloning-a-repository/). 
 
 > Genom att använda `git clone` klonar du ett befintligt repo på GitHub, d.v.s. du skapar en lokal fullständig arbetskopia av repot på GitHub. En katalog kommer att skapas med samma namn som repot du klonar, i detta fall `[your-lnu-username]-exercises`, och fyllas med de filer och kataloger repot innehåller. De ändringar du gör lokalt kommer att skickas till repot på GitHub då du använder kommandot `git push`.
 
@@ -42,7 +42,7 @@ Efter komamndot ska du ha en katalogstruktur enligt:
 
 :triangular_flag_on_post: `$ cd [your-lnu-username]-exercises`
 
-Du hämtar filer (och kataloger) från ett annat repo än det du klonat genom att använda komamndot `git pull`. 
+Du hämtar filer (och kataloger) från ett annat repo än det du klonat genom att använda komamndot [`git pull`](https://help.github.com/articles/fetching-a-remote/#pull). 
 >Repot [boilerplate-gitignore](https://github.com/1dv021/boilerplate-gitignore) innehåller filen [.gitignore](https://git-scm.com/docs/gitignore) som definierar vilka kataloger som inte ska skickas till GitHub i samband med en synkronisering mellan mellan ditt lokala repot och ditt repot på GitHub.  
 
 :triangular_flag_on_post: `$ git pull https://github.com/1dv021/boilerplate-gitignore.git`
@@ -60,7 +60,7 @@ Efter komamndot ska du ha en katalogstruktur enligt:
 
 ## Steg 4. Synkronisera ändringarna med ditt repo på GitHub
 
-För att synkroniers ändringarna mellan ditt lokala repo och repot på GitHub använder du kommandot `git push`.
+För att synkroniers ändringarna mellan ditt lokala repo och repot på GitHub använder du kommandot [`git push`](https://help.github.com/articles/pushing-to-a-remote/).
 
 >OBS! I detta fall behöver du inte lägga till filen `.ignore` och göra en "commit" då detta redan tagits hand om av kommandot `git pull`.  
 

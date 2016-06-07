@@ -12,7 +12,7 @@ Se till att du befinner dig i katalogen för dina övningsuppgifter.
 
 ## Steg 2. Lägg till ett alias för källan till övningsuppgiften
 
-För att undvika att skriva URL:en till källan ("remote URL") till övnikngsuppgiften upprepade gånger är det lämpligt att lägga till den en gång för alla genom att använda kommandot `git remote add`.
+För att undvika att skriva URL:en till källan ("remote URL") till övningsuppgiften upprepade gånger är det lämpligt att lägga till den en gång för alla genom att använda kommandot [`git remote add`](https://help.github.com/articles/adding-a-remote/).
 
 > Namngivningen av repon för övningsuppgifter följer standarden `https://github.com/1dv021/exercise-[the-name-of-the-exercise].git`, varför exempelvis övningsuppgiften "Hello, World!" har namnet https://github.com/1dv021/exercise-hello-world.git`.
 
