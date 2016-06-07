@@ -74,4 +74,4 @@ Allt är nu förberett för att du ska kunna arbeta med övningsuppgifterna. Gl�
 
 Genom att följa denna guide har du nu förberett ditt privata repo för kursens övningsuppgifter. :tada: :octocat: :zap:
 
-> __Tips__: Ta en titt på guiden [Att komma igång med en övningsuppgift](https://github.com/1dv021/guider/att-komma-igang-med-en-ovningsuppgift) eller [andra intressanta guider](https://github.com/1dv021/guider).
+> __Tips__: Ta en titt på guiden [Att komma igång med en övningsuppgift](https://github.com/1dv021/guider/att-komma-igang-med-en-ovningsuppgift) eller [andra intressanta guider](https://github.com/1dv021/guider/).
