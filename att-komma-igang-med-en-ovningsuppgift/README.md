@@ -14,7 +14,7 @@ Se till att du befinner dig i katalogen för dina övningsuppgifter.
 
 För att undvika att skriva URL:en till källan ("remote URL") till övningsuppgiften upprepade gånger är det lämpligt att lägga till den en gång för alla genom att använda kommandot [`git remote add`](https://help.github.com/articles/adding-a-remote/).
 
-> Namngivningen av repon för övningsuppgifter följer standarden `https://github.com/1dv021/exercise-[the-name-of-the-exercise].git`, varför exempelvis övningsuppgiften "Hello, World!" har namnet https://github.com/1dv021/exercise-hello-world.git`.
+> Namngivningen av repon för övningsuppgifter följer standarden `https://github.com/1dv021/exercise-[the-name-of-the-exercise].git`, varför exempelvis övningsuppgiften "Hello, World!" har namnet https://github.com/1dv021/exercise-hello-world.git.
 
 :triangular_flag_on_post: `$ git remote add hello-world https://github.com/1dv021/exercise-hello-world.git`
 
