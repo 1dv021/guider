@@ -8,14 +8,14 @@ Här hittar du anvisningar som visar dig steg för steg de olika moment du är t
 
 Under kursen kommer du att arbeta med flera repon. Det är därför lämpligt att samla de lokala kopiorna av repona under en och samma katalog, förslagvis namngiven efter kursens kod 1dv021.
 
-`$ mkdir 1dv021`
+:triangular_flag_on_post: `$ mkdir 1dv021`
 
 
 ## Steg 2. Klona ditt repo för övningsuppgifter
 
 :warning: __VIKTIGT!__ Se till att du står i katalogen som skapades under steg 1 genom att använda kommandot `cd` ("_change directory_").
 
-`$ cd 1dv021`
+:triangular_flag_on_post: `$ cd 1dv021`
 
 Du har blivit tilldelad ett privat repo för dina övningsuppgifter. I detta repo samlar du alla övningsuppgifter du gör. Du skapar en lokal arbetskopia av ditt repo för övningsuppgifter med `git clone`. 
 
@@ -23,7 +23,7 @@ Du har blivit tilldelad ett privat repo för dina övningsuppgifter. I detta rep
 
 > OBS! Ersätt `[your-lnu-username]` i `[your-lnu-username]-exercises.git` med ditt användarnamn du fått av universitetet.
 
-`$ git clone https://github.com/1dv021/[your-lnu-username]-exercises.git`
+:triangular_flag_on_post: `$ git clone https://github.com/1dv021/[your-lnu-username]-exercises.git`
 
 Efter komamndot ska du ha en katalogstruktur enligt:
 
@@ -40,12 +40,12 @@ Efter komamndot ska du ha en katalogstruktur enligt:
 
 > OBS! Ersätt `[your-lnu-username]` i `[your-lnu-username]-exercises` med ditt användarnamn du fått av universitetet. 
 
-`$ cd [your-lnu-username]-exercises`
+:triangular_flag_on_post: `$ cd [your-lnu-username]-exercises`
 
 Du hämtar filer (och kataloger) från ett annat repo än det du klonat genom att använda komamndot `git pull`. 
 >Repot [boilerplate-gitignore](https://github.com/1dv021/boilerplate-gitignore) innehåller filen [.gitignore](https://git-scm.com/docs/gitignore) som definierar vilka kataloger som inte ska skickas till GitHub i samband med en synkronisering mellan mellan ditt lokala repot och ditt repot på GitHub.  
 
-`$ git pull https://github.com/1dv021/boilerplate-gitignore.git`
+:triangular_flag_on_post: `$ git pull https://github.com/1dv021/boilerplate-gitignore.git`
 
 Efter komamndot ska du ha en katalogstruktur enligt:
 
@@ -64,7 +64,7 @@ För att synkroniers ändringarna mellan ditt lokala repo och repot på GitHub a
 
 >OBS! I detta fall behöver du inte lägga till filen `.ignore` och göra en "commit" då detta redan tagits hand om av kommandot `git pull`.  
 
-`$ git push`
+:triangular_flag_on_post: `$ git push`
 
 ## Steg 5. Klart!
 
