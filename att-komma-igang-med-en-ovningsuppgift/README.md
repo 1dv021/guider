@@ -8,17 +8,17 @@
 
 Se till att du befinner dig i katalogen för dina övningsuppgifter. 
 
-`$ cd [your-lnu-username]-exercises` 
+:arrow_right: `$ cd [your-lnu-username]-exercises` 
 
 ## Steg 2. Lägg till ett alias för källan till övningsuppgiften
 
 ...
 
-`$ git remote add hello-world https://github.com/1dv021/exercise-hello-world.git`
+:arrow_right: `$ git remote add hello-world https://github.com/1dv021/exercise-hello-world.git`
 
 ...
 
-`$ git remote -v`
+:arrow_right: `$ git remote -v`
 
 <pre>
 origin  https://github.com/1dv021/[your-lnu-username]-exercises.git (fetch)
@@ -31,7 +31,7 @@ hello-world  https://github.com/1dv021/exercise-hello-world.git (push)
 
 ...
 
-`$ git subtree add --prefix=hello-world --squash hello-world master`
+:arrow_right: `$ git subtree add --prefix=hello-world --squash hello-world master`
 
 <pre>
 .
@@ -53,11 +53,11 @@ hello-world  https://github.com/1dv021/exercise-hello-world.git (push)
 </pre>
 ...
 
-`$ git add .`
+:arrow_right: `$ git add .`
 
-`$ git commit -m "First commit hello-world"`
+:arrow_right: `$ git commit -m "First commit hello-world"`
 
-`$ git push` 
+:arrow_right: `$ git push` 
 
 ## Steg 4. Klart!
 
