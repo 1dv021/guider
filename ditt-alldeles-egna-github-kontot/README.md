@@ -1,4 +1,4 @@
-# Ditt alldeles egna och privata GitHub-konto
+# Ditt alldeles egna GitHub-konto
 
 Här hittar du anvisningar som visar dig steg för steg de olika moment du är tvungen att utföra för att skapa ditt egna GitHub-konto du kommer att behöva under kursen.
 
@@ -38,5 +38,13 @@ Gå till [`https://github.com/settings/emails`](https://github.com/settings/emai
 
 ## Steg 5. Tala om för GitHub att du är en student
 
-Gå till [`https://education.github.com`](https://education.github.com) för att registrera att du är en student.
+Gå till [`https://education.github.com`](https://education.github.com) för att registrera att du är en student. Klicka på knappen __Request a discount__ och följ anvisnikngarna.
+> __OBS!__ För att kunna fullfölja anvisningarna måste du ha bekräftat din studentmejladress.
 
+![Education](bilder/education.png)
+
+## Steg 6. Klart!
+
+Nu är allt klart för att du ska kunna meddela kursledningen namnet på ditt GitHub-konto för att sedan börja använda ditt GitHub-konto i kursen.
+
+> __Tips__: Ta en titt på guiden [Meddela kursledningen namnet på ditt GitHub-konto](https://github.com/1dv021/guider/tree/master/meddela-kursledningen-namnet-pa-ditt-github-konto) eller [andra intressanta guider](https://github.com/1dv021/guider/).
